@@ -1,6 +1,5 @@
-## Egocentric-Vision
 # EGOVISION
-# Ego4D Dataset: Episodic memory task with NLQ and Synthetic Query Generation with LLM
+## Ego4D Dataset: Episodic memory task with NLQ and Synthetic Query Generation with LLM
 
 Egocentric vision provides a unique perspective on human activities by capturing visual information from the user's point of view and modeling interactions with objects, environments and people. 
 This project addresses the Natural Language Queries (NLQ) benchmark from the Ego4D dataset, which aims to identify the temporal segment in a video corresponding to a natural language query. 
